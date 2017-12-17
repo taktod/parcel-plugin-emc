@@ -8,5 +8,7 @@
   },
   "author": "taktod",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "parcel-bundler": "*"
+  }
 }
